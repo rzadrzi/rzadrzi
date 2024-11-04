@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rzadrzi
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
