@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rzadrzi
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Deep Reinforcement Learning
 - 📫 How to reach me darzi.reza@gmail.com
 
 <!---
