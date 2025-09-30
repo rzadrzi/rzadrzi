@@ -63,7 +63,7 @@ My background in **strategic management & project management** helps me:
 
 ## 📫 Contact
 - Email: [darzi.reza@gmail.com]  
-- LinkedIn:[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-darzi-b49645109/) [(https://www.linkedin.com/in/reza-darzi-b49645109/)]  
+- LinkedIn: [https://www.linkedin.com/in/reza-darzi-b49645109/]  
 
 <!---
 rzadrzi/rzadrzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
