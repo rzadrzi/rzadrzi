@@ -38,7 +38,7 @@ My background in **strategic management & project management** helps me:
 - RLHF/RLAIF pipelines, agent systems, scalable inference & monitoring
 
 ## 📫 Contact
-- Email: [you@domain.com]  
+- Email: [darzi.reza@gmail.com]  
 - LinkedIn: [linkedin.com/in/your-handle]  
 - Website/Blog: [your-site.com]
 
