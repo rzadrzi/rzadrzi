@@ -26,7 +26,7 @@ Ex **Strategic Manager / Project Manager**<br><br>
 
 ### LLMs/Tooling
 ![LangChain](https://img.shields.io/badge/LangChain-00B386?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-f5ef42?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-ffffff?style=for-the-badge&logo=HuggingFace&logoColor=yellow)
 ![Openai](https://img.shields.io/badge/Openai-ffffff?style=for-the-badge&logo=openai&logoColor=black)
 
 ### Backend & API Development
