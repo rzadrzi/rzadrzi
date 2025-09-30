@@ -31,9 +31,8 @@ Ex **Strategic Manager / Project Manager**
 ![Django](https://img.shields.io/badge/django-009688?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00ba4e?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ![Redis](https://img.shields.io/badge/Redis-ba0010?style=for-the-badge&logo=Redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-ba0010?style=for-the-badge&logo=Celery&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-32ba00?style=for-the-badge&logo=Celery&logoColor=white)
 
 ### Tools, DevOps & Automation
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
