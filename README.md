@@ -15,10 +15,7 @@ Ex **Strategic Manager / Project Manager**<br><br>
 - Comfortable with metrics, defines objectives and tracks results(OKRs), and stakeholder alignment.
 
 ## 🛠️ Tech I use
-**LLMs/Tooling:** Hugging Face Transformers, OpenAI API, vLLM, LangChain  
-**RL:** Stable-Baselines3, RLlib, gymnasium  
-**Training/Infra:** PyTorch, JAX (basic), CUDA, Weights & Biases, MLflow  
-**Backend:** Python, FastAPI, Celery, Docker, Redis, PostgreSQL  
+
 ### AI & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -30,6 +27,7 @@ Ex **Strategic Manager / Project Manager**<br><br>
 ![LangChain](https://img.shields.io/badge/LangChain-00B386?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-f5ef42?style=for-the-badge&logo=HuggingFace&logoColor=black)
 ![Openai](https://img.shields.io/badge/Openai-ffffff?style=for-the-badge&logo=openai&logoColor=black)
+
 ### Backend & API Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/django-009688?style=for-the-badge&logo=django&logoColor=white)
@@ -42,8 +40,6 @@ Ex **Strategic Manager / Project Manager**<br><br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
 
 ## 📌 Selected work
 - **[Project A — RLHF pipeline]**: Data → preference → reward model → PPO fine-tune → evals  
@@ -67,10 +63,6 @@ My background in **strategic management & project management** helps me:
 ## 📫 Contact
 - Email: [darzi.reza@gmail.com]  
 - LinkedIn: [linkedin.com/in/reza-darzi-b49645109/]  
-- Website/Blog: [your-site.com]
-
-
-- 📫 How to reach me darzi.reza@gmail.com
 
 <!---
 rzadrzi/rzadrzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
