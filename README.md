@@ -1,4 +1,4 @@
-# Hi there — I'm Reza Darzi 👋
+# Hi there, I'm Reza Darzi 👋
 
 **LLM Engineer · Reinforcement Learning (RL)**  
 Ex **Strategic Manager / Project Manager**
