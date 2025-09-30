@@ -28,10 +28,11 @@ Ex **Strategic Manager / Project Manager**
 ![Openai](https://img.shields.io/badge/Openai-ffffff?style=for-the-badge&logo=openai&logoColor=black)
 ### Backend & API Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/django-009688?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-336791?style=for-the-badge&logo=mogodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
 ### Tools, DevOps & Automation
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
