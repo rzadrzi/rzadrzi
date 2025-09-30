@@ -39,8 +39,8 @@ Ex **Strategic Manager / Project Manager**<br><br>
 ![Celery](https://img.shields.io/badge/Celery-a9cc54?style=for-the-badge&logo=Celery&logoColor=white)
 
 ### Tools, DevOps & Automation
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📌 Selected work
