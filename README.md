@@ -33,7 +33,7 @@ Ex **Strategic Manager / Project Manager**<br><br>
 ### Backend & API Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/django-0c4b33?style=for-the-badge&logo=django&logoColor=white)
-![Mysql](https://img.shields.io/badge/Mysql-00684a?style=for-the-badge&logo=mysql&logoColor=white)
+![Mysql](https://img.shields.io/badge/Mysql-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00684a?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-ba0010?style=for-the-badge&logo=Redis&logoColor=white)
