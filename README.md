@@ -4,7 +4,7 @@
 Ex **Strategic Manager / Project Manager**<br><br>
 [![Email me](https://img.shields.io/badge/Email-9a00a8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darzi.reza@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-darzi-b49645109/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
+
 
 - 🔭 Current focus: **Agentic AI +‌ RL**, agents & tool-use, retrieval, evals & safety
 - 🧠 Research interests: **Reasoning models | Reinforcement Learning from Human Feedback (RLHF)** reward modeling, offline/online RL, policy gradients, bandits
@@ -63,7 +63,7 @@ My background in **strategic management & project management** helps me:
 
 ## 📫 Contact
 - Email: [darzi.reza@gmail.com]  
-- LinkedIn: [linkedin.com/in/reza-darzi-b49645109/]  
+- LinkedIn: [linkedin.com/in/reza-darzi-b49645109/]  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-darzi-b49645109/)
 
 <!---
 rzadrzi/rzadrzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
