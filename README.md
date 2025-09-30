@@ -31,8 +31,8 @@ Ex **Strategic Manager / Project Manager**<br><br>
 ![Groq](https://img.shields.io/badge/groq-e67f2c?style=for-the-badge&logo=groq&logoColor=black)
 
 ### Backend & API Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/django-009688?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/django-0c4b33?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00ba4e?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-ba0010?style=for-the-badge&logo=Redis&logoColor=white)
