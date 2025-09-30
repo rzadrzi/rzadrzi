@@ -17,7 +17,13 @@ Ex **Strategic Manager / Project Manager**
 **RL:** Stable-Baselines3, RLlib, gymnasium  
 **Training/Infra:** PyTorch, JAX (basic), CUDA, Weights & Biases, MLflow  
 **Backend:** Python, FastAPI, Celery, Docker, Redis, PostgreSQL  
-[](https://camo.githubusercontent.com/2f6f5799742a96a7d661073aedca1be2ba13da8f38b516f6bd56531d8789e57f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
+## AI & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00B386?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4D4D?style=for-the-badge)
 
 ## 📌 Selected work
 - **[Project A — RLHF pipeline]**: Data → preference → reward model → PPO fine-tune → evals  
