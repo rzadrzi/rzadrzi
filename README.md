@@ -1,8 +1,8 @@
 # Hi there, I'm Reza Darzi 👋
 
-**Agentic AI Engineer · Reinforcement Learning (RL)**  
+**Agentic AI Engineer**  
 Ex **Strategic Manager / Project Manager**
-
+![Email](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=Email&logoColor=white)
 - 🔭 Current focus: **Agentic AI +‌ RL**, agents & tool-use, retrieval, evals & safety
 - 🧠 Research interests: **Reasoning models | Reinforcement Learning from Human Feedback (RLHF)** reward modeling, offline/online RL, policy gradients, bandits
 - ⚙️ Practical: scalable serving (FastAPI/Django), monitoring, experiment tracking
