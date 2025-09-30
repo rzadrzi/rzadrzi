@@ -39,6 +39,9 @@ Ex **Strategic Manager / Project Manager**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+![PyPI - Format](https://img.shields.io/pypi/format/:packageName)
+
+
 
 ## 📌 Selected work
 - **[Project A — RLHF pipeline]**: Data → preference → reward model → PPO fine-tune → evals  
