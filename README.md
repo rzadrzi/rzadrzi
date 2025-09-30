@@ -22,7 +22,7 @@ Ex **Strategic Manager / Project Manager**<br><br>
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)
 ![pytorch](https://img.shields.io/badge/pytorch-de3412?style=for-the-badge&logo=pytorch&logoColor=white)
-![gymnasium](https://img.shields.io/badge/gymnasium-d9f4ff?style=for-the-badge&logo=openai&logoColor=black)
+![gymnasium](https://img.shields.io/badge/gymnasium-ffffff?style=for-the-badge&logo=openai&logoColor=black)
 
 ### LLMs/Tooling
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white)
@@ -36,7 +36,7 @@ Ex **Strategic Manager / Project Manager**<br><br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00684a?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-ba0010?style=for-the-badge&logo=Redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-32ba00?style=for-the-badge&logo=Celery&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-a9cc54?style=for-the-badge&logo=Celery&logoColor=white)
 
 ### Tools, DevOps & Automation
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
