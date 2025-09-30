@@ -1,7 +1,7 @@
 # Hi there, I'm Reza Darzi 👋
 
 **Agentic AI Engineer**  
-Ex **Strategic Manager / Project Manager**<br>
+Ex **Strategic Manager / Project Manager**<br><br>
 [![Email me](https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darzi.reza@gmail.com)
 
 - 🔭 Current focus: **Agentic AI +‌ RL**, agents & tool-use, retrieval, evals & safety
