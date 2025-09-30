@@ -2,7 +2,7 @@
 
 **Agentic AI Engineer**  
 Ex **Strategic Manager / Project Manager**<br>
-[![Email me](https://img.shields.io/badge/Email-me-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@domain.com)
+[![Email me](https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darzi.reza@gmail.com)
 
 - 🔭 Current focus: **Agentic AI +‌ RL**, agents & tool-use, retrieval, evals & safety
 - 🧠 Research interests: **Reasoning models | Reinforcement Learning from Human Feedback (RLHF)** reward modeling, offline/online RL, policy gradients, bandits
