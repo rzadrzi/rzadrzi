@@ -28,6 +28,7 @@ Ex **Strategic Manager / Project Manager**<br><br>
 ![LangChain](https://img.shields.io/badge/LangChain-00B386?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-fffecf?style=for-the-badge&logo=HuggingFace&logoColor=yellow)
 ![Openai](https://img.shields.io/badge/Openai-d9f4ff?style=for-the-badge&logo=openai&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-d9f4ff?style=for-the-badge&logo=Groq&logoColor=black)
 
 ### Backend & API Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
