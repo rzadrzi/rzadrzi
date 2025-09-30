@@ -20,9 +20,9 @@ Ex **Strategic Manager / Project Manager**<br><br>
 ### AI & Data Science
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![pytorch](https://img.shields.io/badge/pytorch-fa7752?style=for-the-badge&logo=pytorch&logoColor=white)
-![gymnasium](https://img.shields.io/badge/gymnasium-ba00ba?style=for-the-badge&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)
+![pytorch](https://img.shields.io/badge/pytorch-de3412?style=for-the-badge&logo=pytorch&logoColor=white)
+![gymnasium](https://img.shields.io/badge/gymnasium-ffffff?style=for-the-badge&logo=openai&logoColor=white)
 
 ### LLMs/Tooling
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white)
