@@ -3,21 +3,20 @@
 **LLM Engineer · Reinforcement Learning (RL)**  
 Ex **Strategic Manager / Project Manager**
 
-- 🔭 Current focus: **Agentic AI**, agents & tool-use, retrieval, evals & safety
-- 🧠 Research interests: reward modeling, offline/online RL, policy gradients, bandits
-- ⚙️ Practical: scalable serving (vLLM/FastAPI), monitoring, experiment tracking
+- 🔭 Current focus: **Agentic AI +‌ RL**, agents & tool-use, retrieval, evals & safety
+- 🧠 Research interests: **Reasoning models | Reinforcement Learning from Human Feedback (RLHF)** reward modeling, offline/online RL, policy gradients, bandits
+- ⚙️ Practical: scalable serving (FastAPI/Django), monitoring, experiment tracking
 
 ## 🔹 Highlights
 - Led projects end-to-end: from strategy & roadmap → MVP → production.
 - Bridging **research ↔ product**: clean APIs, reproducible training, measurable impact.
-- Comfortable with metrics, OKRs, and stakeholder alignment.
+- Comfortable with metrics, defines objectives and tracks results(OKRs), and stakeholder alignment.
 
 ## 🛠️ Tech I use
 **LLMs/Tooling:** Hugging Face Transformers, OpenAI API, vLLM, LangChain  
 **RL:** Stable-Baselines3, RLlib, gymnasium  
 **Training/Infra:** PyTorch, JAX (basic), CUDA, Weights & Biases, MLflow  
 **Backend:** Python, FastAPI, Celery, Docker, Redis, PostgreSQL  
-**MLOps:** experiment tracking, dataset/versioning, CI/CD, monitoring
 
 ## 📌 Selected work
 - **[Project A — RLHF pipeline]**: Data → preference → reward model → PPO fine-tune → evals  
@@ -43,24 +42,7 @@ My background in **strategic management & project management** helps me:
 - LinkedIn: [linkedin.com/in/your-handle]  
 - Website/Blog: [your-site.com]
 
----
 
-### فارسی
-
-مهندس **مدل‌های زبانی بزرگ (LLM)** و پژوهش‌یار **یادگیری تقویتی (RL)** هستم.  
-قبلاً در نقش‌های **مدیریت استراتژیک** و **مدیریت پروژه** کار کرده‌ام و تمرکزم روی اتصال پژوهش به محصول قابل استقرار است.
-
-**علاقه‌مندی‌ها:** RLHF/RLAIF، ایجنت‌ها و استفاده از ابزارها، بازیابی و ارزیابی/ایمنی مدل  
-**مهارت‌ها:** PyTorch، Transformers، vLLM، LangChain، Stable-Baselines3، FastAPI، Docker، Redis، PostgreSQL، W&B/MLflow
-
-**دنبال همکاری روی:** پایپ‌لاین‌های RLHF، سیستم‌های Agentic، استقرار مقیاس‌پذیر و مانیتورینگ
-
-**ارتباط:** [you@domain.com] · [LinkedIn] · [your-site.com]
-
-- 👋 Hi, I’m @rzadrzi
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Deep Reinforcement Learning
 - 📫 How to reach me darzi.reza@gmail.com
 
 <!---
