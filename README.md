@@ -66,7 +66,7 @@ My background in **strategic management & project management** helps me:
 
 ## 📫 Contact
 - Email: [darzi.reza@gmail.com]  
-- LinkedIn: [linkedin.com/in/your-handle]  
+- LinkedIn: [linkedin.com/in/reza-darzi-b49645109/]  
 - Website/Blog: [your-site.com]
 
 
