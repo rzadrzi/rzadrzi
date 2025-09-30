@@ -22,7 +22,8 @@ Ex **Strategic Manager / Project Manager**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![pytorch](https://img.shields.io/badge/pytorch-fa7752?style=for-the-badge&logo=pytorch&logoColor=white)
-![jax](https://img.shields.io/badge/jax-fa7752?style=for-the-badge&logo=jax&logoColor=white)
+![gymnasium](https://img.shields.io/badge/gymnasium-fa7752?style=for-the-badge&logo=gymnasium&logoColor=white)
+
 ### LLMs/Tooling
 ![LangChain](https://img.shields.io/badge/LangChain-00B386?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-f5ef42?style=for-the-badge&logo=HuggingFace&logoColor=black)
@@ -39,13 +40,6 @@ Ex **Strategic Manager / Project Manager**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Frontend & Prototyping
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-![PyPI - Format](https://img.shields.io/pypi/format/:Django)
 
 
 
