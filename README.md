@@ -25,7 +25,7 @@ Ex **Strategic Manager / Project Manager**<br><br>
 ![gymnasium](https://img.shields.io/badge/gymnasium-ba00ba?style=for-the-badge&logo=openai&logoColor=white)
 
 ### LLMs/Tooling
-![LangChain](https://img.shields.io/badge/LangChain-1a3321?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-fffecf?style=for-the-badge&logo=HuggingFace&logoColor=yellow)
 ![Openai](https://img.shields.io/badge/Openai-d9f4ff?style=for-the-badge&logo=openai&logoColor=black)
 ![Groq](https://img.shields.io/badge/groq-e67f2c?style=for-the-badge&logo=groq&logoColor=black)
