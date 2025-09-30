@@ -1,9 +1,9 @@
-# Hi there — I'm [Your Name] 👋
+# Hi there — I'm Reza Darzi 👋
 
 **LLM Engineer · Reinforcement Learning (RL)**  
-Ex **Strategic Manager / Project Manager** → turning strategy into shipped AI systems.
+Ex **Strategic Manager / Project Manager**
 
-- 🔭 Current focus: **RLHF/RLAIF**, agents & tool-use, retrieval, evals & safety
+- 🔭 Current focus: **Agentic AI**, agents & tool-use, retrieval, evals & safety
 - 🧠 Research interests: reward modeling, offline/online RL, policy gradients, bandits
 - ⚙️ Practical: scalable serving (vLLM/FastAPI), monitoring, experiment tracking
 
