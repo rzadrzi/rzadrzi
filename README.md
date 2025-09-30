@@ -24,6 +24,7 @@ Ex **Strategic Manager / Project Manager**
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ### LLMs/Tooling
 ![LangChain](https://img.shields.io/badge/LangChain-00B386?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/Hugging-Face-Transformers-00B386?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4D4D?style=for-the-badge)
 ### Backend & API Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
