@@ -19,9 +19,10 @@ Ex **Strategic Manager / Project Manager**
 **Backend:** Python, FastAPI, Celery, Docker, Redis, PostgreSQL  
 ### AI & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### LLMs/Tooling
 ![LangChain](https://img.shields.io/badge/LangChain-00B386?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4D4D?style=for-the-badge)
 ### Backend & API Development
