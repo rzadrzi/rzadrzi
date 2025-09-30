@@ -22,13 +22,13 @@ Ex **Strategic Manager / Project Manager**<br><br>
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)
 ![pytorch](https://img.shields.io/badge/pytorch-de3412?style=for-the-badge&logo=pytorch&logoColor=white)
-![gymnasium](https://img.shields.io/badge/gymnasium-ffffff?style=for-the-badge&logo=openai&logoColor=white)
+![gymnasium](https://img.shields.io/badge/gymnasium-d9f4ff?style=for-the-badge&logo=openai&logoColor=white)
 
 ### LLMs/Tooling
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-fef7da?style=for-the-badge&logo=HuggingFace&logoColor=yellow)
 ![Openai](https://img.shields.io/badge/Openai-d9f4ff?style=for-the-badge&logo=openai&logoColor=black)
-![Groq](https://img.shields.io/badge/groq-e67f2c?style=for-the-badge&logo=groq&logoColor=black)
+![Groq](https://img.shields.io/badge/groq-ebebe3?style=for-the-badge&logo=groq&logoColor=black)
 
 ### Backend & API Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
