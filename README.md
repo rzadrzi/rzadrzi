@@ -59,7 +59,7 @@ My background in **strategic management & project management** helps me:
 - communicate with stakeholders and ship on time
 
 ## 🤝 Open to collaborate on
-- RLHF/RLAIF pipelines, agent systems, scalable inference & monitoring
+- **agent systems**, scalable inference, RLHF/RLAIF pipelines & monitoring
 
 ## 📫 Contact
 - Email: [darzi.reza@gmail.com]  
