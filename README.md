@@ -2,7 +2,7 @@
 
 **Agentic AI Engineer**  
 Ex **Strategic Manager / Project Manager**<br><br>
-[![Email me](https://img.shields.io/badge/Email-9a00a8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darzi.reza@gmail.com)
+[![Email me](https://img.shields.io/badge/Email-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darzi.reza@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-darzi-b49645109/)
 
 
