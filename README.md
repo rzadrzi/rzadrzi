@@ -6,7 +6,7 @@ Ex **Strategic Manager / Project Manager**<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-darzi-b49645109/)
 
 
-- 🔭 Current focus: **Agentic AI +‌ RL**, agents & tool-use, retrieval, evals & safety
+- 🔭 Current focus: **Agentic AI +‌ Fintech**, agents & tool-use, retrieval, evals & safety
 - 🧠 Research interests: **Reasoning models | Reinforcement Learning from Human Feedback (RLHF)** reward modeling, offline/online RL, policy gradients, bandits
 - ⚙️ Practical: scalable serving (FastAPI/Django), monitoring, experiment tracking
 
