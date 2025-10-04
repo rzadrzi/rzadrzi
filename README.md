@@ -63,7 +63,7 @@ Ex **Strategic Manager / Project Manager**<br><br>
 
 
 ## 📌 Selected work
-- ![**Teronizer**](https://www.linkedin.com/in/reza-darzi-b49645109/): lightweight TRON (TRC-20) payments API — micropayments, webhooks, 24/7 settlement, no chargebacks.  
+- [**Teronizer**](https://www.linkedin.com/in/reza-darzi-b49645109/): lightweight TRON (TRC-20) payments API — micropayments, webhooks, 24/7 settlement, no chargebacks.  
 - **[Project B — Agentic RAG]**: multi-tool agent with retrieval, structured outputs, eval harness  
 - **[Project C — Offline RL]**: behavior cloning + CQL baseline on [dataset]
 
