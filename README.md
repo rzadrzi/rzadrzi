@@ -35,6 +35,7 @@ Ex **Strategic Manager / Project Manager**<br><br>
 
 ### FinTech
 ![vectorbt](https://img.shields.io/badge/vectorbt-4051b5?style=for-the-badge&logo=vectorbt&logoColor=black)
+![backtrader](https://img.shields.io/badge/backtrader-546d78?style=for-the-badge&logo=backtrader&logoColor=black)
 
 ### LLMs/Tooling
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white)
