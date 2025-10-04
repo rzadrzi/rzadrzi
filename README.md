@@ -17,7 +17,7 @@ Ex **Strategic Manager / Project Manager**<br><br>
 
 ## 📌 Selected work
 - [**Teronizer**](https://github.com/rzadrzi/tronizer): lightweight TRON (TRC-20) payments API — micropayments, webhooks, 24/7 settlement, no chargebacks.  
-- **Portfolio Management Agent**: multi-tool agent with retrieval, structured outputs, eval harness  
+- [**Portfolio Management Agent**](https://github.com/rzadrzi/Portfolio_Management_Agent): multi agent, try to manage your portfolio, risk analytics, buy-sell bot. 
 
 
 ## 🛠️ Tech I use
