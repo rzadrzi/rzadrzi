@@ -7,7 +7,7 @@ Ex **Strategic Manager / Project Manager**<br><br>
 
 
 - 🔭 Current focus: **Agentic AI +‌ Fintech**, agents & tool-use, retrieval, evals & safety
-- 🧠 Research interests: **Reasoning models | Reinforcement Learning from Human Feedback (RLHF)** reward modeling, offline/online RL, policy gradients, bandits
+- 🧠 Research interests: **Reasoning models | Reinforcement Learning in Finance** reward modeling, offline/online RL, policy gradients, bandits
 - ⚙️ Practical: scalable serving (FastAPI/Django), monitoring, experiment tracking
 
 ## 🔹 Highlights
