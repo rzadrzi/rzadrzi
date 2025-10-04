@@ -40,6 +40,12 @@ Ex **Strategic Manager / Project Manager**<br><br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-00684a?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-ba0010?style=for-the-badge&logo=Redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-a9cc54?style=for-the-badge&logo=Celery&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7A37E7?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
 
 ### Tools, DevOps & Automation
 ![Docker](https://img.shields.io/badge/Docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white)
