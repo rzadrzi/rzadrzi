@@ -15,6 +15,11 @@ Ex **Strategic Manager / Project Manager**<br><br>
 - Bridging **research ↔ product**: clean APIs, reproducible training, measurable impact.
 - Comfortable with metrics, defines objectives and tracks results(OKRs), and stakeholder alignment.
 
+## 📌 Selected work
+- [**Teronizer**](https://www.linkedin.com/in/reza-darzi-b49645109/): lightweight TRON (TRC-20) payments API — micropayments, webhooks, 24/7 settlement, no chargebacks.  
+- **Portfolio Management Agent**: multi-tool agent with retrieval, structured outputs, eval harness  
+
+
 ## 🛠️ Tech I use
 
 ### AI & Data Science
@@ -62,12 +67,6 @@ Ex **Strategic Manager / Project Manager**<br><br>
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-## 📌 Selected work
-- [**Teronizer**](https://www.linkedin.com/in/reza-darzi-b49645109/): lightweight TRON (TRC-20) payments API — micropayments, webhooks, 24/7 settlement, no chargebacks.  
-- **[Project B — Agentic RAG]**: multi-tool agent with retrieval, structured outputs, eval harness  
-- **[Project C — Offline RL]**: behavior cloning + CQL baseline on [dataset]
-
-> Add links: demos, notebooks, blog posts, or papers.
 
 ## 🧪 Evals & Safety
 - Task-specific evals (accuracy/latency/cost), adversarial prompts, regression suites  
