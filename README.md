@@ -16,7 +16,7 @@ Ex **Strategic Manager / Project Manager**<br><br>
 - Comfortable with metrics, defines objectives and tracks results(OKRs), and stakeholder alignment.
 
 ## 📌 Selected work
-- [**Teronizer**](https://www.linkedin.com/in/reza-darzi-b49645109/): lightweight TRON (TRC-20) payments API — micropayments, webhooks, 24/7 settlement, no chargebacks.  
+- [**Teronizer**](https://github.com/rzadrzi/tronizer): lightweight TRON (TRC-20) payments API — micropayments, webhooks, 24/7 settlement, no chargebacks.  
 - **Portfolio Management Agent**: multi-tool agent with retrieval, structured outputs, eval harness  
 
 
