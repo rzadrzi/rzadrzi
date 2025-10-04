@@ -63,7 +63,7 @@ Ex **Strategic Manager / Project Manager**<br><br>
 
 
 ## 📌 Selected work
-- **[Project A — RLHF pipeline]**: Data → preference → reward model → PPO fine-tune → evals  
+- **[Teronizer]**: Data → preference → reward model → PPO fine-tune → evals  
 - **[Project B — Agentic RAG]**: multi-tool agent with retrieval, structured outputs, eval harness  
 - **[Project C — Offline RL]**: behavior cloning + CQL baseline on [dataset]
 
