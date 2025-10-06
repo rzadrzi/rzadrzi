@@ -4,6 +4,7 @@
 Ex **Strategic Manager / Project Manager**<br><br>
 [![Email me](https://img.shields.io/badge/Gmail-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darzi.reza@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-darzi-b49645109/)
+[![Medium](https://img.shields.io/badge/Medium-0a66c2?style=for-the-badge&logo=Medium&logoColor=white)](https://www.linkedin.com/in/reza-darzi-b49645109/)
 
 
 - 🔭 Current focus: **Agentic AI +‌ Fintech**, agents & tool-use, retrieval, evals & safety
