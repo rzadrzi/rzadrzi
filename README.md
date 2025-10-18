@@ -47,6 +47,10 @@ Ex **Strategic Manager / Project Manager**<br><br>
 
 ## 🛠️ Tech I use
 
+### Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</p>       
 ### AI & Data Science
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 
