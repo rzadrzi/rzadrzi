@@ -56,25 +56,11 @@ Ex **Strategic Manager / Project Manager**<br><br>
 ### AI & Data Science 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40"/>
-   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" />              
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" />        
 </p>  
           
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)
-![pytorch](https://img.shields.io/badge/pytorch-de3412?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-
-### FinTech
-![vectorbt](https://img.shields.io/badge/vectorbt-4051b5?style=for-the-badge&logo=vectorbt&logoColor=black)
-![backtrader](https://img.shields.io/badge/backtrader-546d78?style=for-the-badge&logo=backtrader&logoColor=black)
-
 ### LLMs/Tooling
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-fef7da?style=for-the-badge&logo=HuggingFace&logoColor=yellow)
@@ -82,6 +68,9 @@ Ex **Strategic Manager / Project Manager**<br><br>
 ![Groq](https://img.shields.io/badge/groq-ebebe3?style=for-the-badge&logo=groq&logoColor=black)
 
 ### Backend & API Development
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+</p>
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/django-0c4b33?style=for-the-badge&logo=django&logoColor=white)
 ![Mysql](https://img.shields.io/badge/Mysql-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
