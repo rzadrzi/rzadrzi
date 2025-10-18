@@ -2,24 +2,28 @@
 
 **Agentic AI Engineer**  
 Ex **Strategic Manager / Project Manager**<br><br>
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="mailto:darzi.reza@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/reza-darzi-b49645109/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+</p>
+
+
 [![Email me](https://img.shields.io/badge/Gmail-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darzi.reza@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-darzi-b49645109/)
 [![Medium](https://img.shields.io/badge/Medium-191919?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@darzi.reza)
 
 
 
-### 📫 Connect with me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/reza-darzi-b49645109/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:darzi.reza@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-</p>
 
 
 
