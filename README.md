@@ -9,15 +9,14 @@ Ex **Strategic Manager / Project Manager**<br><br>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/reza-darzi-b49645109/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
   </a>
   &nbsp;&nbsp;
+  
+
+[![Medium](https://img.shields.io/badge/Medium-191919?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@darzi.reza)
 </p>
 
-
-[![Email me](https://img.shields.io/badge/Gmail-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darzi.reza@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-darzi-b49645109/)
-[![Medium](https://img.shields.io/badge/Medium-191919?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@darzi.reza)
 
 
 
