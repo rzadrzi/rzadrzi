@@ -6,25 +6,19 @@ Ex **Strategic Manager / Project Manager**<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-darzi-b49645109/)
 [![Medium](https://img.shields.io/badge/Medium-191919?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@darzi.reza)
 
-<a href="https://www.linkedin.com/in/hamedkhosravii/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
 
 
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hamedkhosravii/" target="_blank">
+  <a href="https://www.linkedin.com/in/reza-darzi-b49645109/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:hamedkhosravii@gmail.com" target="_blank">
+  <a href="mailto:darzi.reza@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/your-id/hamedkhosravii" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="Stack Overflow" width="40" height="40"/>
-  </a>
 </p>
 
 
