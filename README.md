@@ -3,11 +3,9 @@
 **Agentic AI Engineer**  
 Ex **Strategic Manager / Project Manager**<br><br>
 
-### 📫 Connect with me
-
 <p align="left">
   <a href="mailto:darzi.reza@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="20" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/reza-darzi-b49645109/" target="_blank">
