@@ -18,7 +18,7 @@ Ex **Strategic Manager / Project Manager**<br><br>
 </p>
 
 
-- 🔭 Current focus: **Agentic AI +‌ Fintech**, agents & tool-use, retrieval, evals & safety
+- 🔭 Current focus: **Agentic AI +‌ Quant**, agents & tool-use, retrieval, evals & safety
 - 🧠 Research interests: **Reasoning models | Reinforcement Learning in Finance**, reward modeling, offline/online RL, policy gradients, bandits
 - ⚙️ Practical: scalable serving (FastAPI/Django), monitoring, experiment tracking
 
