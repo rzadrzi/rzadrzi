@@ -6,6 +6,13 @@ Ex **Strategic Manager / Project Manager**<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-darzi-b49645109/)
 [![Medium](https://img.shields.io/badge/Medium-191919?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@darzi.reza)
 
+<a href="https://www.linkedin.com/in/hamedkhosravii/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
+
+
+
 
 - 🔭 Current focus: **Agentic AI +‌ Fintech**, agents & tool-use, retrieval, evals & safety
 - 🧠 Research interests: **Reasoning models | Reinforcement Learning in Finance**, reward modeling, offline/online RL, policy gradients, bandits
