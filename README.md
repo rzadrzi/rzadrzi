@@ -18,13 +18,6 @@ Ex **Strategic Manager / Project Manager**<br><br>
 </p>
 
 
-
-
-
-
-
-
-
 - 🔭 Current focus: **Agentic AI +‌ Fintech**, agents & tool-use, retrieval, evals & safety
 - 🧠 Research interests: **Reasoning models | Reinforcement Learning in Finance**, reward modeling, offline/online RL, policy gradients, bandits
 - ⚙️ Practical: scalable serving (FastAPI/Django), monitoring, experiment tracking
@@ -100,8 +93,19 @@ My background in **strategic management & project management** helps me:
 - **agent systems**, scalable inference, RLHF/RLAIF pipelines & monitoring
 
 ## 📫 Contact
-- Email: [darzi.reza@gmail.com]  
-- LinkedIn: [https://www.linkedin.com/in/reza-darzi-b49645109/]  
+<p align="left">
+  <a href="mailto:darzi.reza@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/reza-darzi-b49645109/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  
+
+[![Medium](https://img.shields.io/badge/Medium-191919?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@darzi.reza)
+</p>  
 
 <!---
 rzadrzi/rzadrzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
