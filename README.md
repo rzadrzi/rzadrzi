@@ -11,6 +11,22 @@ Ex **Strategic Manager / Project Manager**<br><br>
 </a>
 
 
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hamedkhosravii/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:hamedkhosravii@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/your-id/hamedkhosravii" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="Stack Overflow" width="40" height="40"/>
+  </a>
+</p>
+
 
 
 
