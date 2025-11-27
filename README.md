@@ -63,10 +63,10 @@ Ex **Strategic Manager / Project Manager**<br><br>
           
 ### LLMs/Tooling
 <img alt="LangChain Logo" src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg" width="15%" style="visibility: visible; max-width: 30%;">
-<img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/25720743?s=200&amp;v=4" width="60" height="60" alt="@huggingface">
-<img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/14957082?s=200&amp;v=4" width="60" height="60" alt="@openai">
-<img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/7464134?s=200&amp;v=4" width="60" height="60" alt="@groq">
-<img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/104874993?s=200&amp;v=4" width="100" height="100" alt="@agno-agi">
+<img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/25720743?s=200&amp;v=4" width="55" height="55" alt="@huggingface">
+<img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/14957082?s=200&amp;v=4" width="55" height="55" alt="@openai">
+<img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/7464134?s=200&amp;v=4" width="55" height="55" alt="@groq">
+<img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/104874993?s=200&amp;v=4" width="55" height="55" alt="@agno-agi">
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-fef7da?style=for-the-badge&logo=HuggingFace&logoColor=yellow)
 ![Openai](https://img.shields.io/badge/Openai-ffffff?style=for-the-badge&logo=openai&logoColor=black)
