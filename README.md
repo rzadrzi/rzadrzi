@@ -62,7 +62,7 @@ Ex **Strategic Manager / Project Manager**<br><br>
 </p>  
           
 ### LLMs/Tooling
-<img alt="LangChain Logo" src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg" width="10%" style="visibility: visible; max-width: 30%;">
+<img alt="LangChain Logo" src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg" width="20%" style="visibility: visible; max-width: 30%;">
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-fef7da?style=for-the-badge&logo=HuggingFace&logoColor=yellow)
 ![Openai](https://img.shields.io/badge/Openai-ffffff?style=for-the-badge&logo=openai&logoColor=black)
