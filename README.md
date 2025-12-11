@@ -34,29 +34,14 @@ Ex **Strategic Manager / Project Manager**<br><br>
 
 ## 🛠️ Tech I use
 
-  <!--- 
-### Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40" />
-          
-</p>  
---->
-
 ### 🧠 AI & Data Science 
 <p align="left">
 Python . Numpy . Pandas . Pytorch . JAX. Flax
 </p>  
           
-### LLMs/Tooling
+### 🤖 LLMs/Tooling
 <p align="left">
-  <img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/25720743?s=200&amp;v=4" width="35" height="35" alt="@huggingface">
-  <img alt="LangChain Logo" src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg" width="15%" style="visibility: visible; max-width: 30%;">
-  <img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/104874993?s=200&amp;v=4" width="35" height="35" alt="@agno-agi">
-  <img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/14957082?s=200&amp;v=4" width="35" height="35" alt="@openai">
-  <img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/7464134?s=200&amp;v=4" width="35" height="35" alt="@groq">
+  Hugging Face . Langchain . OpenAI . groq . agno :
 </p>
 
 ### Backend & API Development
