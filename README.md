@@ -1,7 +1,7 @@
 # Hi there, I'm Reza Darzi 👋
 
 **Agentic AI Engineer**  
-Ex **Strategic Manager / Project Manager**<br><br>
+Ex **Strategic Manager / Founder**<br><br>
 
 <p align="left">
   <a href="mailto:darzi.reza@gmail.com" target="_blank">
