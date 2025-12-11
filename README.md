@@ -44,7 +44,7 @@ Python . Numpy . Pandas . Pytorch . JAX . Flax
 
 #### 🖥️ Backend & API Development
 <p align="left">
-  FastAPI . Django . Postgressql . MongoDB . Redis     
+  FastAPI . Django . PostgreSQL . MongoDB . Redis     
 </p>
 
 #### ⚙️ Tools, DevOps & Automation
