@@ -29,34 +29,29 @@ Ex **Strategic Manager / Project Manager**<br><br>
 
 ## 📌 Selected work
 - [**Teronizer**](https://github.com/rzadrzi/tronizer): lightweight TRON (TRC-20) payments API — micropayments, webhooks, 24/7 settlement, no chargebacks.  
-<br>
-<br>
 
 ## 🛠️ Tech I use
 
-### 🧠 AI & Data Science 
+#### 🧠 AI & Data Science 
 <p align="left">
 Python . Numpy . Pandas . Pytorch . JAX . Flax
 </p>  
           
-### 🤖 LLMs/Tooling
+#### 🤖 LLMs/Tooling
 <p align="left">
   Hugging Face . Langchain . OpenAI . groq . agno 
 </p>
 
-### 🖥️ Backend & API Development
+#### 🖥️ Backend & API Development
 <p align="left">
   FastAPI . Django . Postgressql . MongoDB . Redis     
 </p>
 
-### ⚙️ Tools, DevOps & Automation
+#### ⚙️ Tools, DevOps & Automation
 <p align="left">
   Git . Docker . Kubernetes . nignx
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-original.svg" width="40" height="40" /> -->
 </p>
-
-
-
 
 ## 🧪 Evals & Safety
 - Task-specific evals (accuracy/latency/cost), adversarial prompts, regression suites  
