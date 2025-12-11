@@ -39,7 +39,7 @@ Python . Numpy . Pandas . Pytorch . JAX . Flax
           
 #### 🤖 LLMs/Tooling
 <p align="left">
-  Hugging Face . Langchain . OpenAI . groq . agno 
+  Hugging Face . Langchain . OpenAI . Groq . Agno 
 </p>
 
 #### 🖥️ Backend & API Development
