@@ -36,31 +36,23 @@ Ex **Strategic Manager / Project Manager**<br><br>
 
 ### 🧠 AI & Data Science 
 <p align="left">
-Python . Numpy . Pandas . Pytorch . JAX. Flax
+Python . Numpy . Pandas . Pytorch . JAX . Flax
 </p>  
           
 ### 🤖 LLMs/Tooling
 <p align="left">
-  Hugging Face . Langchain . OpenAI . groq . agno :
+  Hugging Face . Langchain . OpenAI . groq . agno 
 </p>
 
-### Backend & API Development
+### 🖥️ Backend & API Development
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"  width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"  width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>      
+  FastAPI . Django . Postgressql . MongoDB . Redis     
 </p>
 
-
-### Tools, DevOps & Automation
+### ⚙️ Tools, DevOps & Automation
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40" />
+  Git . Docker . Kubernetes . nignx
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-original.svg" width="40" height="40" /> -->
 </p>
 
 
