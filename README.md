@@ -22,10 +22,6 @@ Ex **Strategic Manager / Founder**<br><br>
 - 🧠 Research interests: **Reasoning models**, reward modeling, offline/online RL, policy gradients, bandits
 - ⚙️ Practical: scalable serving (FastAPI/Django), monitoring, experiment tracking
 
-## 🔹 Highlights
-- Led projects end-to-end: from strategy & roadmap → MVP → production.
-- Bridging **research ↔ product**: clean APIs, reproducible training, measurable impact.
-- Comfortable with metrics, defines objectives and tracks results(OKRs), and stakeholder alignment.
 
 ## 📌 Selected work
 - [**Teronizer**](https://github.com/rzadrzi/tronizer): lightweight TRON (TRC-20) payments API — micropayments, webhooks, 24/7 settlement, no chargebacks.  
@@ -34,36 +30,19 @@ Ex **Strategic Manager / Founder**<br><br>
 
 #### 🧠 AI & Data Science 
 <p align="left">
-Python . Numpy . Pandas . Pytorch . JAX . Flax
+Numpy . Pandas . Pytorch . JAX . Flax
 </p>  
           
-#### 🤖 LLMs/Tooling
-<p align="left">
-  Hugging Face . Langchain . OpenAI . Groq . Agno 
-</p>
 
 #### 🖥️ Backend & API Development
 <p align="left">
   FastAPI . Django . PostgreSQL . MongoDB . Redis     
 </p>
 
-#### ⚙️ Tools, DevOps & Automation
-<p align="left">
-  Git . Docker . Kubernetes . nignx
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-original.svg" width="40" height="40" /> -->
-</p>
-
-## 🧪 Evals & Safety
-- Task-specific evals (accuracy/latency/cost), adversarial prompts, regression suites  
-- Data governance & prompt hygiene; red-team playbooks
-
 ## 🧭 From Strategy to Execution
 My background in **strategic management & project management** helps me:  
 - define crisp north-stars, roadmap experiments, de-risk unknowns  
 - communicate with stakeholders and ship on time
-
-## 🤝 Open to collaborate on
-- **agent systems**, scalable inference, RLHF/RLAIF pipelines & monitoring
 
 ## 📫 Contact
 <p align="left">
