@@ -26,7 +26,7 @@ Ex **Strategic Manager / Founder**<br><br>
 ## 📌 Selected work
 - [**Teronizer**](https://github.com/rzadrzi/tronizer): lightweight TRON (TRC-20) payments API — micropayments, webhooks, 24/7 settlement, no chargebacks.  
 
-## 🛠️ Tech I use
+## 🛠️ Tech Stack
 
 #### 🧠 AI & Data Science 
 <p align="left">
