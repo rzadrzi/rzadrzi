@@ -22,10 +22,10 @@ Ex **Strategic Manager / Founder**<br><br>
 - 🧠 Research interests: **Reasoning models**, reward modeling, offline/online RL, policy gradients, bandits
 - ⚙️ Practical: scalable serving (FastAPI/Django), monitoring, experiment tracking
 
-
+<!--
 ## 📌 Selected work
 - [**Teronizer**](https://github.com/rzadrzi/tronizer): lightweight TRON (TRC-20) payments API — micropayments, webhooks, 24/7 settlement, no chargebacks.  
-
+-->
 ## 🛠️ Tech Stack
 
 #### 🧠 AI & Data Science 
